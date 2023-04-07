@@ -11,3 +11,6 @@ Learning to Communicate with Sequences of Symbols - Serhii Havrylov, Ivan Titov(
 REFERENTIAL GAMES WITH SYMBOLIC AND PIXEL - Angeliki Lazaridou (2018)
 INPUT](https://openreview.net/pdf?id=HJGv1Z-AW)
 - [Learning Multiagent Communication with Backpropagation - Sainbayar Sukhbaatar, Arthur Szlam, Rob Fergus (2016)](https://proceedings.neurips.cc/paper/2016/file/55b1927fdafef39c48e5b73b5d61ea60-Paper.pdf)
+
+
+## Emergence of Grounded compositional language in multi agent population
