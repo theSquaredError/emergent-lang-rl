@@ -79,5 +79,11 @@ with Autoencoders
 - **Title:** Networked Multi-Agent Reinforcement Learning with Emergent Communication
 - **Authors:** [Shubham Gupta]
 - **Link:** [https://arxiv.org/pdf/2004.02780.pdf]
+
+### Origins of Human Communication
+
+- **Title:** Origins of Human Communication
+- **Authors:** 
+- **Link:** https://yzhu.io/courses/core/reading/06.tomasello.pdf
 ## Contributing
 If you have any suggestions for papers to add to this list, feel free to open an issue or pull request.
