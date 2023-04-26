@@ -23,8 +23,8 @@ This repository is a collection of research papers related to [Topic] that I hav
 
 ### [Learning to Ground Multi-Agent Communication with Autoencoders]
 
-- **Title:** [Learning to Ground Multi-Agent Communication
-with Autoencoders]
+- **Title:** Learning to Ground Multi-Agent Communication
+with Autoencoders
 - **Authors:** [Author 1], [Author 2], etc.
 - **Link:** [https://toruowo.github.io/marl-ae-comm/]
 - **Summary:** [Brief summary of the paper]
