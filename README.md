@@ -1,6 +1,6 @@
 # [Emergent Language] Research Paper List
 
-This repository is a collection of research papers related to [Topic] that I have read or found interesting. Each paper includes a brief summary and a link to the original source.
+This repository is a collection of research papers related to Language Emergent that I have read or found interesting. Each paper includes a brief summary and a link to the original source.
 
 ## List of Papers
 
