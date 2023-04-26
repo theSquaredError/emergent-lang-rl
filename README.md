@@ -71,7 +71,7 @@ with Autoencoders
 ### EMERGENT TRANSLATION IN MULTI-AGENT COMMUNICATION
 
 - **Title:** EMERGENT TRANSLATION IN MULTI-AGENT COMMUNICATION
-- **Authors:** [https://arxiv.org/pdf/1710.06922.pdf]
-- **Link
+- **Authors:** [Author1]
+- **Link:** [https://arxiv.org/pdf/1710.06922.pdf]
 ## Contributing
 If you have any suggestions for papers to add to this list, feel free to open an issue or pull request.
