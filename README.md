@@ -91,5 +91,11 @@ with Autoencoders
 - **Title:** The Emergence of Compositional Languages for Numeric Concepts Through Iterated Learning in Neural Agents
 - **Authors:** 
 - **Link:** https://arxiv.org/pdf/1910.05291.pdf
+
+### Function, Selection and Innateness The Emergence of Language Universals
+
+- **Title:** Function, Selection and Innateness The Emergence of Language Universals
+- **Authors:**  Simon Kirby
+- **Link:** http://www.lel.ed.ac.uk/~simon/Papers/Kirby/thesis.pdf
 ## Contributing
 If you have any suggestions for papers to add to this list, feel free to open an issue or pull request.
