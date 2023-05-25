@@ -58,7 +58,7 @@ with Autoencoders
 
 - **Title:** [Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols]
 - **Authors:** [Angeliki Lazaridou], [Author 2], etc.
-- **Link:** [https://openreview.net/pdf?id=HJGv1Z-AW]
+- **Link:** [https://arxiv.org/pdf/1705.11192.pdf]
 - **Summary:** [Brief summary of the paper]
 
 ### Compositional languages emerge in a neural iterated learning model
