@@ -97,5 +97,12 @@ with Autoencoders
 - **Title:** Function, Selection and Innateness The Emergence of Language Universals
 - **Authors:**  Simon Kirby
 - **Link:** http://www.lel.ed.ac.uk/~simon/Papers/Kirby/thesis.pdf
+
+### Biases for Emergent Communication in Multi-agent Reinforcement Learning
+
+- **Title:** Biases for Emergent Communication in Multi-agent Reinforcement Learning
+- **Authors:**  Simon Kirby
+- **Link:** (https://proceedings.neurips.cc/paper_files/paper/2019/file/fe5e7cb609bdbe6d62449d61849c38b0-Paper.pdf)
+
 ## Contributing
 If you have any suggestions for papers to add to this list, feel free to open an issue or pull request.
