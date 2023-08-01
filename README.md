@@ -104,5 +104,12 @@ with Autoencoders
 - **Authors:**  Simon Kirby
 - **Link:** (https://proceedings.neurips.cc/paper_files/paper/2019/file/fe5e7cb609bdbe6d62449d61849c38b0-Paper.pdf)
 
+### EMERGENT COMMUNICATION AT SCALE
+
+- **Title:** EMERGENT COMMUNICATION AT SCALE
+- **Authors:**  Rahma Chaabouni, Angeliki Lazaridou
+- **Link:** (https://openreview.net/pdf?id=AUGBfDIV9rL)
+
+
 ## Contributing
 If you have any suggestions for papers to add to this list, feel free to open an issue or pull request.
