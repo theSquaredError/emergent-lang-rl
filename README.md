@@ -93,6 +93,9 @@ This repository is a collection of research papers related to Language Emergent 
 - **Authors:**  Rahma Chaabouni, Angeliki Lazaridou
 - **Link:** (https://openreview.net/pdf?id=AUGBfDIV9rL)
 
+### Compositonality and Generalization in Emergent Languages
 
+- **Authors:** Rahma Chaabouni, Marco Baroni
+- **Link:** (https://aclanthology.org/2020.acl-main.407.pdf)
 ## Contributing
 If you have any suggestions for papers to add to this list, feel free to open an issue or pull request.
