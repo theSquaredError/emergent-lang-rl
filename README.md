@@ -97,5 +97,10 @@ This repository is a collection of research papers related to Language Emergent 
 
 - **Authors:** Rahma Chaabouni, Marco Baroni
 - **Link:** (https://aclanthology.org/2020.acl-main.407.pdf)
+
+### THE STUDY OF LANGUAGE ACQUISITION
+- **Link:**(https://www.researchgate.net/profile/Robin-Campbell/publication/265778931_The_Study_of_Language_Acquisition/links/5695a83908ae425c68985e25/The-Study-of-Language-Acquisition.pdf)
+
+
 ## Contributing
 If you have any suggestions for papers to add to this list, feel free to open an issue or pull request.
