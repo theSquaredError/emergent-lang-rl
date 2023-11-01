@@ -104,5 +104,7 @@ This repository is a collection of research papers related to Language Emergent 
 ### How agents see things: On visual representations in an emergent language game
 - **Link:** (https://aclanthology.org/D18-1119.pdf)
 
+### Measuring Compositionality in representation learning
+- **Link:** (https://openreview.net/pdf?id=HJz05o0qK7)
 ## Contributing
 If you have any suggestions for papers to add to this list, feel free to open an issue or pull request.
