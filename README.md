@@ -3,7 +3,7 @@
 
 | Title | Author | Conference  |Year|
 |----------|----------|----------|---------|
-|[Learning to Ground Multi-Agent Communication with Autoencoders](https://toruowo.github.io/marl-ae-comm/){:target="_blank"}|d|d|d|
+|[Learning to Ground Multi-Agent Communication with Autoencoders](https://toruowo.github.io/marl-ae-comm/)|d|d|d|
 |[Emergence of Grounded compositional langauage in multi agent population](https://arxiv.org/pdf/1703.04908.pdf)|d|d|d|
 |[Natural Language Does Not Emerge ‘Naturally’ in Multi-Agent Dialog](https://aclanthology.org/D17-1321.pdf)|d|d|d|
 |[EMERGENCE OF LINGUISTIC COMMUNICATION FROM REFERENTIAL GAMES WITH SYMBOLIC AND PIXEL](https://openreview.net/pdf?id=HJGv1Z-AW)|d|d|d|
