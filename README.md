@@ -23,6 +23,8 @@
 |[THE STUDY OF LANGUAGE ACQUISITION](https://www.researchgate.net/profile/Robin-Campbell/publication/265778931_The_Study_of_Language_Acquisition/links/5695a83908ae425c68985e25/The-Study-of-Language-Acquisition.pdf)|d|d|d|
 |[How agents see things: On visual representations in an emergent language game](https://aclanthology.org/D18-1119.pdf)|d|d|d|
 |[Measuring Compositionality in representation learning](https://openreview.net/pdf?id=HJz05o0qK7)|d|d|d|
+|[How recursive is language? A Bayesian exploration]([https://openreview.net/pdf?id=HJz05o0qK7](https://sites.socsci.uci.edu/~lpearl/courses/readings/PerforsEtAl2010_RecursiveLang.pdf))|d|d|d|
+|[The Faculty of Language: What Is It, Who Has It, and How Did It Evolve?]([https://openreview.net/pdf?id=HJz05o0qK7](https://www.science.org/doi/pdf/10.1126/science.298.5598.1569)https://www.science.org/doi/pdf/10.1126/science.298.5598.1569)|d|d|d|
 
 
 
