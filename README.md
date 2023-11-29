@@ -25,6 +25,7 @@
 |[Measuring Compositionality in representation learning](https://openreview.net/pdf?id=HJz05o0qK7)|d|d|d|
 |[How recursive is language? A Bayesian exploration](https://sites.socsci.uci.edu/~lpearl/courses/readings/PerforsEtAl2010_RecursiveLang.pdf))|d|d|d|
 |[The Faculty of Language: What Is It, Who Has It, and How Did It Evolve?](https://www.science.org/doi/pdf/10.1126/science.298.5598.1569)|d|d|d|
-
+|[Understanding Linguistic Evolution by Visualizing the Emergence
+of Topographic Mappings](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=6a54db36afce548b5e4deefb3a4df0428a13a813)|Simon Kirby|d|d|
 
 
