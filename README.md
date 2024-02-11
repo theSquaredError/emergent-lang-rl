@@ -27,6 +27,4 @@
 |[The Faculty of Language: What Is It, Who Has It, and How Did It Evolve?](https://www.science.org/doi/pdf/10.1126/science.298.5598.1569)|d|d|d|
 |[Understanding Linguistic Evolution by Visualizing the Emergenceof Topographic Mappings](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=6a54db36afce548b5e4deefb3a4df0428a13a813)|Simon Kirby|d|d|
 |[Anti-Efficient encoding in the emergent language](https://hal.science/hal-02274205/document#:~:text=Surprisingly%2C%20we%20find%20that%20networks,towards%20the%20maximum%20length%20threshold.)|Chaabouni|d|d|
-
-
-<!-dndf>
+|[Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper/2016/file/c7635bfd99248a2cdef8249ef7bfbef4-Paper.pdf)|Jakob N. Foerster,Shimon Whiteson|NIPS|2016|
