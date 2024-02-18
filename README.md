@@ -1,4 +1,5 @@
 # Language Emergence in multi-agent population
+Language is one of the unique ability present to the humans.
 ## _Publications and resource for language emergence_
 
 | Title | Author | Conference  |Year|
