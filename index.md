@@ -1,5 +1,5 @@
 # Language Emergence in multi-agent population
-
+## Can robots exhibit sufficient creativity to autonomously invent their own language?
 My current research endeavors to tackle a fundamental question: ”Can robots exhibit sufficient creativity to autonomously invent their own language?” The ability to communicate ideas using oral symbols is a remarkably complex yet highly effective mechanism developed and mastered by humans. This skill, rooted in well-structured languages grounded within societal contexts, presents a fundamental challenge for artificial intelligence.
 
 If we aim to achieve the formation of communication from first principles, it must arise out of necessity. Existing approaches that learn to imitate language from examples of human language (such as NLP) may capture statistical patterns but often fall short in understanding the underlying reasons for language’s existence and fail to encompass its functional aspects.
