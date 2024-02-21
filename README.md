@@ -11,9 +11,9 @@ A lexicon represents a systematic set of associations between linguistic forms a
 
 | Title | Author | Conference  |Year|
 |----------|----------|----------|---------|
-|[Learning to Ground Multi-Agent Communication with Autoencoders](https://toruowo.github.io/marl-ae-comm/)|d|NIPS|2021|
-|[Emergence of Grounded compositional langauage in multi agent population](https://arxiv.org/pdf/1703.04908.pdf)|d|AAAI|d|
-|[Natural Language Does Not Emerge ‘Naturally’ in Multi-Agent Dialog](https://aclanthology.org/D17-1321.pdf)|d|d|d|
+|[Learning to Ground Multi-Agent Communication with Autoencoders](https://toruowo.github.io/marl-ae-comm/)|Toru Lin|NIPS|2021|
+|[Emergence of Grounded compositional langauage in multi agent population](https://arxiv.org/pdf/1703.04908.pdf)|Pieter Abbeel|AAAI|d|
+|[Natural Language Does Not Emerge ‘Naturally’ in Multi-Agent Dialog](https://aclanthology.org/D17-1321.pdf)|Dhruv Batra|d|d|
 |[EMERGENCE OF LINGUISTIC COMMUNICATION FROM REFERENTIAL GAMES WITH SYMBOLIC AND PIXEL](https://openreview.net/pdf?id=HJGv1Z-AW)|d|d|d|
 |[Learning Multiagent Communication with Backpropagation](https://proceedings.neurips.cc/paper/2016/file/55b1927fdafef39c48e5b73b5d61ea60-Paper.pdf)|d|d|d|
 |[Evolving Grounded Communication for robots](https://digital.csic.es/bitstream/10261/128155/1/Evolving%20grounded.pdf)|Luc Steels|
