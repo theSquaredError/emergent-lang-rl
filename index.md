@@ -169,5 +169,11 @@
     <td>PLOS</td>
     <td>2022</td>
   </tr>
+  <tr>
+    <td><a href="http://www.lel.ed.ac.uk/~simon/Papers/Kirby/The%2520Evolution%2520of%2520Language.pdf">The Evolution of Language</a></td>
+    <td>Simon Kirby</td>
+    <td></td>
+    <td>2007</td>
+  </tr>
 </tbody>
 </table>
