@@ -163,5 +163,11 @@
 <td>NIPS</td>
 <td>2016</td>
 </tr>
+  <tr>
+    <td><a href="https://arxiv.org/pdf/2112.14518.pdf">MUTUAL INFLUENCE BETWEEN LANGUAGE AND PERCEPTION IN MULTI-AGENT COMMUNICATION GAMES</a></td>
+    <td>Xenia Ohmer</td>
+    <td>PLOS</td>
+    <td>2022</td>
+  </tr>
 </tbody>
 </table>
