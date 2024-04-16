@@ -6,6 +6,6 @@ If we aim to achieve the formation of communication from first principles, it mu
 
 In my research, I employ deep reinforcement learning techniques within the framework of multi-agent markov games. The primary objective is to construct computational models that shed light on the processes underlying the emergence of phenomena like shared lexicons (grounding) and grammars, mirroring aspects of human language evolution.
 
-A lexicon represents a systematic set of associations between linguistic forms and their meanings. However, the emergence of a shared grammar presents a more intricate problem. Grammar encompasses properties of language involving the sequential arrangement of lexical forms, which together form expressions or sentences.
+<!-- A lexicon represents a systematic set of associations between linguistic forms and their meanings. However, the emergence of a shared grammar presents a more intricate problem. Grammar encompasses properties of language involving the sequential arrangement of lexical forms, which together form expressions or sentences. -->
 
 
